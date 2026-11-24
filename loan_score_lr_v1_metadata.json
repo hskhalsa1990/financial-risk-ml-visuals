@@ -1,0 +1,16 @@
+{
+  "name": "loan_score_lr",
+  "version": 1,
+  "features": [
+    "age",
+    "income",
+    "numberOfCard",
+    "numberOfCarLoan"
+  ],
+  "metrics": {
+    "roc_auc": 0.8126328423895376
+  },
+  "trained_at": "2026-11-24T13:37:41.931866+00:00",
+  "sha256_16": "8dc5bf1a35d79b97",
+  "data": "synthetic"
+}
